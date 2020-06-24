@@ -1,1 +1,1 @@
-# This is my readme file, I will udpate it later as work progresses.
+# Calculates the downstream effects that a jet-in-crossflow has rocket using aforementioned jet-in-crossflow for roll-control/stabilization.
